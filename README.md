@@ -21,6 +21,7 @@ Architecture
 
 
 
+
 Dashboard Features
 
  KPI Tracking (Revenue, Profit, Orders, Margin)
@@ -37,6 +38,7 @@ Dashboard Features
 
 
 
+
 Key Insights
 
  High-margin regions identified despite lower sales
@@ -49,6 +51,7 @@ Key Insights
 
 
 
+
 Tech Stack
 
  Google BigQuery (SQL)
@@ -56,6 +59,7 @@ Tech Stack
  Power BI (DirectQuery)
 
  Data Visualization
+
 
 
 
