@@ -2,14 +2,14 @@
 
 
 
-Overview
+# Overview
 
 
 This project demonstrates an end-to-end cloud analytics pipeline using Google BigQuery and Power BI.
 
 
 
-Architecture
+# Architecture
 
  Data stored in Google BigQuery (cloud data warehouse)
 
@@ -22,7 +22,7 @@ Architecture
 
 
 
-Dashboard Features
+# Dashboard Features
 
  KPI Tracking (Revenue, Profit, Orders, Margin)
 
@@ -39,7 +39,7 @@ Dashboard Features
 
 
 
-Key Insights
+# Key Insights
 
  High-margin regions identified despite lower sales
 
@@ -52,7 +52,7 @@ Key Insights
 
 
 
-Tech Stack
+# Tech Stack
 
  Google BigQuery (SQL)
 
@@ -63,7 +63,7 @@ Tech Stack
 
 
 
-Screenshots
+# Screenshots
 
 
 
