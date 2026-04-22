@@ -62,15 +62,11 @@ Screenshots
 
 
 
-Dashboard
+![Dashboard](screenshots/Dashboard.png)
 
-!\[Dashboard](screenshots/Dashboard.png)
+## SQL View (BigQuery)
 
-
-
-BigQuery
-
-!\[BigQuery](screenshots/sql_view.png)
+![SQL View](screenshots/sql_view.png)
 
 
 
