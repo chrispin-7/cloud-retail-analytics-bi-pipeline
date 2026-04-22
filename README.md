@@ -5,7 +5,7 @@
 # Overview
 
 
-This project demonstrates an end-to-end cloud analytics pipeline using Google BigQuery and Power BI.
+This project demonstrates an end-to-end cloud analytics pipeline using Google BigQuery, SQL and Power BI.
 
 
 
