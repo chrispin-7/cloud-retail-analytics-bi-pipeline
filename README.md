@@ -1,14 +1,14 @@
-\# Cloud Retail Analytics \& BI Pipeline (BigQuery + Power BI)
+ Cloud Retail Analytics \& BI Pipeline (BigQuery + Power BI)
 
 
 
-\##  Overview
+Overview
 
 This project demonstrates an end-to-end cloud analytics pipeline using Google BigQuery and Power BI.
 
 
 
-\##  Architecture
+Architecture
 
 \- Data stored in Google BigQuery (cloud data warehouse)
 
@@ -20,67 +20,65 @@ This project demonstrates an end-to-end cloud analytics pipeline using Google Bi
 
 
 
-\##  Dashboard Features
+Dashboard Features
 
-\- KPI Tracking (Revenue, Profit, Orders, Margin)
+ KPI Tracking (Revenue, Profit, Orders, Margin)
 
-\- Regional Performance Analysis
+ Regional Performance Analysis
 
-\- Monthly Revenue Trends
+ Monthly Revenue Trends
 
-\- Shipping Mode Analysis
+ Shipping Mode Analysis
 
-\- Product Profitability Matrix
+ Product Profitability Matrix
 
-\- Customer Segmentation
-
-
-
-\##  Key Insights
-
-\- High-margin regions identified despite lower sales
-
-\- Loss-making product categories detected
-
-\- Consumer segment drives majority revenue
-
-\- Technology category is top-performing
+ Customer Segmentation
 
 
 
-\##  Tech Stack
+Key Insights
 
-\- Google BigQuery (SQL)
+ High-margin regions identified despite lower sales
 
-\- Power BI (DirectQuery)
+ Loss-making product categories detected
 
-\- Data Visualization
+ Consumer segment drives majority revenue
 
-
-
-\##  Screenshots
+ Technology category is top-performing
 
 
 
-\### Dashboard
+Tech Stack
+
+ Google BigQuery (SQL)
+
+ Power BI (DirectQuery)
+
+ Data Visualization
+
+
+
+Screenshots
+
+
+
+Dashboard
 
 !\[Dashboard](screenshots/dashboard.png)
 
 
 
-\### BigQuery
+BigQuery
 
 !\[BigQuery](screenshots/bigquery.png)
 
 
 
-\### DirectQuery Proof
-
-!\[DirectQuery](screenshots/directquery.png)
 
 
 
-\##  Author
+
+Author
 
 Chrispin Joseph
 
