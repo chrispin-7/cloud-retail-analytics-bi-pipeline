@@ -10,13 +10,13 @@ This project demonstrates an end-to-end cloud analytics pipeline using Google Bi
 
 Architecture
 
-\- Data stored in Google BigQuery (cloud data warehouse)
+ Data stored in Google BigQuery (cloud data warehouse)
 
-\- SQL used for transformation and business logic
+ SQL used for transformation and business logic
 
-\- Power BI connected via DirectQuery (live queries)
+ Power BI connected via DirectQuery (live queries)
 
-\- No local data storage used
+ No local data storage used
 
 
 
@@ -64,13 +64,13 @@ Screenshots
 
 Dashboard
 
-!\[Dashboard](screenshots/dashboard.png)
+!\[Dashboard](screenshots/Dashboard.png)
 
 
 
 BigQuery
 
-!\[BigQuery](screenshots/bigquery.png)
+!\[BigQuery](screenshots/sql_view.png)
 
 
 
